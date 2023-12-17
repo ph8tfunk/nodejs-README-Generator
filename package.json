@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-readme-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ph8tfunk/nodejs-README-Generator.git"
+  },
+  "author": "Tom Paling",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ph8tfunk/nodejs-README-Generator/issues"
+  },
+  "homepage": "https://github.com/ph8tfunk/nodejs-README-Generator#readme",
+  "dependencies": {
+    "inquirer": "^9.2.12"
+  }
+}
