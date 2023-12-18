@@ -17,6 +17,11 @@ const questions = [
       message: 'Please Give A Description Of The Project',
     },
     {
+        type: 'input',
+        name: 'repoName',
+        message: 'What Is The  Name of The Repository?',
+    },
+    {
       type: 'input',
       name: 'installation',
       message: 'Project Installation Requirements?',
@@ -35,7 +40,7 @@ const questions = [
     {
         type: 'input',
         name: 'contributing',
-        message: 'Project Contribution Guidelines',
+        message: 'How to Contribute',
     },
     {
         type: 'input',
@@ -66,7 +71,7 @@ function init() {
 
     inquirer.prompt(questions).then((answers) => {
         console.log('done');
-        JSON.stringify(answers, null, '  ');
+        //JSON.stringify(answers, null, '  ');
         writeToFile(fileName,generateMarkdown(answers));
       });
 }
