@@ -71,7 +71,6 @@ function init() {
 
     inquirer.prompt(questions).then((answers) => {
         console.log('done');
-        //JSON.stringify(answers, null, '  ');
         writeToFile(fileName,generateMarkdown(answers));
       });
 }

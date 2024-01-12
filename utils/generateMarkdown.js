@@ -2,6 +2,7 @@
 function generateMarkdown(data) {
   
   return `
+  
   # ${data.projectTitle}
 
   <img src="https://img.shields.io/github/license/${data.ghUserName}/${data.repoName}">
