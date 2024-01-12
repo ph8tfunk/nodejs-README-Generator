@@ -34,7 +34,7 @@ const questions = [
     {
       type: 'input',
       name: 'credits',
-      message: 'Project Usage',
+      message: 'Project Credits',
     },
     {
         type: 'list',

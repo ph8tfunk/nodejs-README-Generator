@@ -1,47 +1,51 @@
-#
 
-  <img src="https://img.shields.io/github/license/d/hgf">
+  
+  # WebAPI-JS-Quiz
 
-hgf
+  <img src="https://img.shields.io/github/license/usesrname/WebAPI-JS-Quiz">
 
-## Table of Contents
+   This website is a Question Quiz on JavaScript
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
-- [How to Contribute](#how-to-contribute)
-- [Tests](#tests)
-- [Questions](#questions)
+  ## Table of Contents
 
-## Installation
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Credits](#credits)
+  - [License](#license)
+  - [How to Contribute](#how-to-contribute)
+  - [Tests](#tests)
+  - [Questions](#questions)
 
-dh
 
-## Usage
+  ## Installation
 
-dgdgf
+  N/A This project runs in the browser
 
-## Credits
+  ## Usage
 
-fg
+  Allows user to interact with an interactive quiz to test their knowledge of JavaScript
 
-## License
+  ## Credits
 
-MIT license
+  Initial code provided by edx bootcamp
 
-## How to Contribute
+  ## License
 
-hg
+  GNU license
 
-## Tests
+  ## How to Contribute
+  
+  Please feel free to fork repo, any questions please reach out
 
-dgh
+  ## Tests
+  
+  n/a
 
-## Questions
+  ## Questions
+  
+  If you have questions about this Project or further development suggestions please reach me at the following
 
-If you have questions about this Project or further development suggestions please reach me at the following
+  <a href="https://github.com/usesrname">GitHub</a>
 
-<a href="https://github.com/d">GitHub</a>
+  <a href="mailto:email">Send Email</a>
 
-<a href="mailto:dgh">Send Email</a>
