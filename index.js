@@ -32,8 +32,13 @@ const questions = [
       message: 'Project Usage',
     },
     {
+      type: 'input',
+      name: 'credits',
+      message: 'Project Usage',
+    },
+    {
         type: 'list',
-        choices: ['MIT', 'GNU' ],
+        choices: ['MIT', 'GNU','Creative Commons', 'Zlib License'],
         name: 'license',
         message: 'Project License',
     },

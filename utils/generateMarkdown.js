@@ -30,7 +30,7 @@ function generateMarkdown(data) {
 
   ## Credits
 
-  ${data.usage}
+  ${data.credits}
 
   ## License
 
