@@ -9,6 +9,10 @@ Install Node.js
 run 'npm install'
 run 'node index.js'
 
+## Screenshot
+
+<img src="assets/Screenshot.jpg" />
+
 ## Usage
 The software will provide an interactive command line quiz, then will generate an README.md file in './output/'
 
