@@ -1,11 +1,16 @@
 # nodejs-README-Generator
 
+README Generator for Repistories.
+Will generate a README me from user input including TOC and badges.
+
 ## Installation
-[-] Fork and clone repo to local machine
-[-] Install Node.js
+Fork and clone repo to local machine
+Install Node.js
+run 'npm install'
+run 'node index.js'
 
 ## Usage
-To use this website, goto the above link and select generate password.
+The software will provide an interactive command line quiz, then will generate an README.md file in './output/'
 
 ## Credits
 Original source code provided by EdX.
